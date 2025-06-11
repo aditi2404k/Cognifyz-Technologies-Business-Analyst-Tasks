@@ -4,39 +4,42 @@ This repository contains my completed tasks for the Business Analytics Internshi
 
 ## Tasks List
 
-### → Level 1: Beginner
+## → Level 1: Beginner
 
-Task 1: Data Overview
+### Task 1: Data Overview
 
 Understand the dataset structure using descriptive statistics (e.g., .info(), .describe()).
 
-Task 2: Gender Distribution
+### Task 2: Gender Distribution
 
 Visualize gender distribution using bar or pie charts.
 
-→ Level 2: Intermediate
-3. Task 3: Descriptive Statistics
+## → Level 2: Intermediate
+
+### Task 3: Descriptive Statistics
 
 Compute mean, median, and standard deviation for numerical columns.
 
-Task 4: Most Preferred Investment Avenue
+### Task 4: Most Preferred Investment Avenue
 
 Identify the most frequently chosen investment option.
 
-→ Level 3: Advanced
-5. Task 5: Reasons for Investment
+## → Level 3: Advanced
+
+### Task 5: Reasons for Investment
 
 Analyze and summarize common reasons behind investment choices.
 
-Task 6: Savings Objectives
+### Task 6: Savings Objectives
 
 Identify and describe the main savings goals of participants.
 
-→ Level 4: Expert
-7. Task 7: Common Information Sources
+## → Level 4: Expert
+
+### Task 7: Common Information Sources
 
 Examine sources participants rely on for investment information.
 
-Task 8: Investment Duration
+### Task 8: Investment Duration
 
 Calculate the average duration of investments.
